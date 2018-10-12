@@ -11,6 +11,10 @@ target/
 .settings/
 .project
 .classpath
+.gradle/
+build/
+*/target/
+*/*/target/
 
 # idea ignore
 .idea/
